@@ -8,6 +8,7 @@ export default instructionText;
 
 const styles = StyleSheet.create({
     instructionText: {
+        fontFamily: 'open-sans-bold',
         color: 'white',
         fontSize: 24,
     },
